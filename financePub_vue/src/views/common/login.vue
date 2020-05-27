@@ -3,7 +3,7 @@
     <div class="site-content__wrapper">
       <div class="site-content">
         <div class="brand-info">
-          <h2 class="brand-info__text">D.K平台</h2>
+          <h2 class="brand-info__text">家庭理财管理平台FinancePub</h2>
         </div>
         <div class="login-main">
           <h3 class="login-title">管理员登录</h3>
