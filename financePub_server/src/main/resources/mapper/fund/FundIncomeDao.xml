@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.finance.modules.fund.dao.FundIncomeDao">
+
+	<!-- 可根据自己的需求，是否要使用 -->
+    <resultMap type="com.finance.modules.fund.entity.FundIncomeEntity" id="fundIncomeMap">
+        <result property="id" column="id"/>
+        <result property="fundTypeId" column="fund_type_id"/>
+        <result property="fundTypeName" column="fund_type_name"/>
+        <result property="content" column="content"/>
+        <result property="money" column="money"/>
+        <result property="sysUserId" column="sys_user_id"/>
+        <result property="sysUserName" column="sys_user_name"/>
+        <result property="address" column="address"/>
+        <result property="remark" column="remark"/>
+        <result property="picUrl" column="pic_url"/>
+        <result property="monthNum" column="month_num"/>
+        <result property="yearNum" column="year_num"/>
+        <result property="dayNum" column="day_num"/>
+        <result property="incomeTime" column="income_time"/>
+        <result property="createTime" column="create_time"/>
+        <result property="updateTime" column="update_time"/>
+        <result property="enabled" column="enabled"/>
+    </resultMap>
+
+
+</mapper>

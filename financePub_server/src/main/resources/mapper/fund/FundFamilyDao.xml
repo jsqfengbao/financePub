@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.finance.modules.fund.dao.FundFamilyDao">
+
+	<!-- 可根据自己的需求，是否要使用 -->
+    <resultMap type="com.finance.modules.fund.entity.FundFamilyEntity" id="fundFamilyMap">
+        <result property="id" column="id"/>
+        <result property="sysUserId" column="sys_user_id"/>
+        <result property="fundFamilyName" column="fund_family_name"/>
+        <result property="createTime" column="create_time"/>
+    </resultMap>
+
+
+</mapper>
