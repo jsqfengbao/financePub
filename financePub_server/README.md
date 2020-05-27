@@ -1,7 +1,7 @@
 **项目说明** 
 - financePub是一个轻量级的，前后端分离的Java快速开发平台,在此平台上开发了收支记账管理软件;
 - 支持MySQL、Oracle、SQL Server、PostgreSQL等主流数据库
-- 前端地址：https://github.com/financePub/financePub-vue
+- 前端地址：https://github.com/jsqfengbao/financePub/financePub_vue
 <br> 
 <br>
  
@@ -60,8 +60,8 @@ renren-fast
 - 如需关注项目最新动态，请Watch、Star项目，同时也是对项目最好的支持
 - 打赏项目，给作者更多开发的动力
 <br/>
-![输入图片说明](https://gitee.com/mobilesec110/xiaoyouhui/raw/master/imagePic/5.png  "在这里输入图片标题")
-![输入图片说明](https://gitee.com/mobilesec110/xiaoyouhui/raw/master/imagePic/6.png  "在这里输入图片标题")
+![输入图片说明](https://s1.ax1x.com/2020/05/27/tEsyyn.png  "在这里输入图片标题")
+![输入图片说明](https://s1.ax1x.com/2020/05/27/tEs6Lq.png  "在这里输入图片标题")
 <br> 
 
 
@@ -84,22 +84,22 @@ renren-fast
 - 执行db/finance-pub.sql文件，初始化数据
 - 修改application-dev.yml，更新MySQL账号和密码
 - Eclipse、IDEA运行FinancePubApplication.java，则可启动项目
-- Swagger路径：http://localhost:8080/financepub-server/swagger/index.html
+- Swagger路径：http://localhost:8080/financepub_server/swagger/index.html
 
 <br> 
 
  **前端部署**
  - 本项目是前后端分离的，还需要部署前端，才能运行起来
- - 前端下载地址：https://github.com/jsqfengbao/financePub/tree/master/financePub-vue
+ - 前端下载地址：https://github.com/jsqfengbao/financePub/tree/master/financePub_vue
  - 前端部署完毕，就可以访问项目了，账号：admin，密码：admin
  
  <br>
 <br> 
 
 **效果图：**
-![输入图片说明](https://gitee.com/uploads/images/2018/0505/173115_d3c045ef_63154.jpeg "在这里输入图片标题")
-![输入图片说明](https://gitee.com/uploads/images/2018/0624/225728_b06f72b3_63154.jpeg "在这里输入图片标题")
-![输入图片说明](https://gitee.com/uploads/images/2018/0505/173140_79928d91_63154.jpeg "在这里输入图片标题")
+![输入图片说明](https://s1.ax1x.com/2020/05/27/tEyXBq.png "在这里输入图片标题")
+![输入图片说明](https://s1.ax1x.com/2020/05/27/tE62PU.png "在这里输入图片标题")
+![输入图片说明](https://s1.ax1x.com/2020/05/27/tEcnZq.png "在这里输入图片标题")
 ![输入图片说明](https://gitee.com/uploads/images/2018/0505/173151_12d065db_63154.jpeg "在这里输入图片标题")
 
 <br>

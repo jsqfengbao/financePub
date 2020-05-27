@@ -1,8 +1,8 @@
 {
-  "name": "renren-fast-vue",
+  "name": "financePub-vue",
   "version": "1.2.2",
-  "description": "renren-fast-vue基于vue、element-ui构建开发，实现renren-fast后台管理前端功能，提供一套更优的前端解决方案。",
-  "author": "daxiong.yang <daxiong.yang@qq.com>",
+  "description": "financePub-vue基于vue、element-ui构建开发，实现financePub-server后台管理前端功能，实现的一套理财收支管理系统。",
+  "author": "",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
