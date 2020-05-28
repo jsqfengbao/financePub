@@ -12,9 +12,6 @@
         </el-radio-group>
       </el-form-item>
       <template v-if="dataForm.type === 1">
-        <el-form-item size="mini">
-          <a href="http://www.renren.io/open/qiniu.html" target="_blank">免费申请(七牛)10GB储存空间</a>
-        </el-form-item>
         <el-form-item label="域名">
           <el-input v-model="dataForm.qiniuDomain" placeholder="七牛绑定的域名"></el-input>
         </el-form-item>
@@ -32,6 +29,9 @@
         </el-form-item>
       </template>
       <template v-else-if="dataForm.type === 2">
+        <el-form-item size="mini">
+          <a href="https://www.aliyun.com/minisite/goods?userCode=52ms1zt1&share_source=copy_link" target="_blank">阿里云50GB储存空间申请</a>
+        </el-form-item>
         <el-form-item label="域名">
           <el-input v-model="dataForm.aliyunDomain" placeholder="阿里云绑定的域名"></el-input>
         </el-form-item>
@@ -52,6 +52,9 @@
         </el-form-item>
       </template>
       <template v-else-if="dataForm.type === 3">
+        <el-form-item size="mini">
+          <a href="https://cloud.tencent.com/act/cps/redirect?redirect=1054&cps_key=5e9a1eaf9c3a8ed04026c92a8c2bda00&from=console" target="_blank">腾讯云50GB储存空间申请</a>
+        </el-form-item>
         <el-form-item label="域名">
           <el-input v-model="dataForm.qcloudDomain" placeholder="腾讯云绑定的域名"></el-input>
         </el-form-item>
