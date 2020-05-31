@@ -79,7 +79,7 @@ mybatis-plus:
     jdbc-type-for-null: 'null'
 
 
-renren:
+finance:
   redis:
     open: false
   shiro:
@@ -87,7 +87,7 @@ renren:
   # APP模块，是通过jwt认证的，如果要使用APP模块，则需要修改【加密秘钥】
   jwt:
     # 加密秘钥
-    secret: f4e2e52034348f86b67cde581c0f9eb5[www.renren.io]
+    secret: f4e2e52034348f86b67cde581c0f9eb5
     # token有效时长，7天，单位秒
     expire: 604800
     header: token

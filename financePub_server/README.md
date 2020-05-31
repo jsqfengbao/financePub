@@ -26,7 +26,7 @@
 
 **项目结构** 
 ```
-renren-fast
+financePub
 ├─db  项目SQL语句
 │
 ├─common 公共模块
@@ -43,7 +43,7 @@ renren-fast
 │  ├─oss 文件服务模块
 │  └─sys 权限模块
 │ 
-├─RenrenApplication 项目启动类
+├─FinancePubApplication 项目启动类
 │  
 ├──resources 
 │  ├─mapper SQL对应的XML文件
@@ -56,7 +56,7 @@ renren-fast
 - 直接在github仓库提交issue或者进入交流群交流反馈
 - Git仓库：https://github.com/financePub
 - financePub交流QQ群：975355187
-- 技术讨论、二次开发等咨询、问题和建议，请移步到人人开源社区，我会在第一时间进行解答和回复！
+- 技术讨论、二次开发等咨询、问题和建议，请移步到QQ群，我会在第一时间进行解答和回复！
 - 如需关注项目最新动态，请Watch、Star项目，同时也是对项目最好的支持
 - 打赏项目，给作者更多开发的动力
 <br/>
