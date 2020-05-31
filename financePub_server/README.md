@@ -58,11 +58,6 @@ financePub
 - financePub交流QQ群：975355187
 - 技术讨论、二次开发等咨询、问题和建议，请移步到QQ群，我会在第一时间进行解答和回复！
 - 如需关注项目最新动态，请Watch、Star项目，同时也是对项目最好的支持
-- 打赏项目，给作者更多开发的动力
-<br/>
-![输入图片说明](https://s1.ax1x.com/2020/05/27/tEsyyn.png  "在这里输入图片标题")
-![输入图片说明](https://s1.ax1x.com/2020/05/27/tEs6Lq.png  "在这里输入图片标题")
-<br> 
 
 
 **技术选型：** 
@@ -97,7 +92,7 @@ financePub
 <br> 
 
 **效果图：**
-![输入图片说明](https://s1.ax1x.com/2020/05/31/tl29aT.png "在这里输入图片标题")
+![输入图片说明](http://p1.pstatp.com/large/pgc-image/16fbc0998eb14dce9209bae6a41eb3a2 "在这里输入图片标题")
 ![输入图片说明](https://s1.ax1x.com/2020/05/27/tE62PU.png "在这里输入图片标题")
 ![输入图片说明](https://s1.ax1x.com/2020/05/27/tEcnZq.png "在这里输入图片标题")
 ![输入图片说明](https://s1.ax1x.com/2020/05/27/tEHpct.png "在这里输入图片标题")

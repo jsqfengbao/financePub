@@ -11,7 +11,7 @@
 - 也可以添加financePub交流群：975355187，备注financePub交流
 
 **效果图：**
-![输入图片说明](https://s1.ax1x.com/2020/05/31/tl29aT.png "在这里输入图片标题")
+![输入图片说明](http://p1.pstatp.com/large/pgc-image/16fbc0998eb14dce9209bae6a41eb3a2 "在这里输入图片标题")
 ![输入图片说明](https://s1.ax1x.com/2020/05/27/tE62PU.png "在这里输入图片标题")
 ![输入图片说明](https://s1.ax1x.com/2020/05/27/tEcnZq.png "在这里输入图片标题")
 ![输入图片说明](https://s1.ax1x.com/2020/05/27/tEHpct.png "在这里输入图片标题")
