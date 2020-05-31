@@ -31,7 +31,7 @@
         </el-menu-item>
         <el-menu-item index="3">
           <el-badge>
-            <a href="//www.mobilesec110.com/" target="_blank">官方社区</a>
+            官方社区
           </el-badge>
         </el-menu-item>
         <el-menu-item class="site-navbar__avatar" index="4">
