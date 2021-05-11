@@ -28,7 +28,7 @@
     "gulp-shell": "0.6.5",
     "jquery": "^3.4.1",
     "js2wordcloud": "^1.1.12",
-    "lodash": "4.17.5",
+    "lodash": "4.17.21",
     "moment": "^2.24.0",
     "node-sass": "4.9.0",
     "popper.js": "^1.15.0",
