@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+		xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.finance</groupId>
 	<artifactId>financePub-server</artifactId>
 	<version>3.0.0</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<description>financePub-server</description>
 
 	<parent>
@@ -87,9 +87,9 @@
 			<version>2.8.0</version>
 		</dependency>
 		<!--<dependency>-->
-			<!--<groupId>org.springframework.boot</groupId>-->
-			<!--<artifactId>spring-boot-devtools</artifactId>-->
-			<!--<optional>true</optional>-->
+		<!--<groupId>org.springframework.boot</groupId>-->
+		<!--<artifactId>spring-boot-devtools</artifactId>-->
+		<!--<optional>true</optional>-->
 		<!--</dependency>-->
 		<dependency>
 			<groupId>com.baomidou</groupId>
@@ -112,22 +112,22 @@
 			<artifactId>mysql-connector-java</artifactId>
 			<version>${mysql.version}</version>
 		</dependency>
-		 <!--oracle驱动-->
+		<!--oracle驱动-->
 		<!--<dependency>-->
-			<!--<groupId>com.oracle</groupId>-->
-			<!--<artifactId>ojdbc6</artifactId>-->
-			<!--<version>${oracle.version}</version>-->
+		<!--<groupId>com.oracle</groupId>-->
+		<!--<artifactId>ojdbc6</artifactId>-->
+		<!--<version>${oracle.version}</version>-->
 		<!--</dependency>-->
-		 <!--mssql驱动-->
+		<!--mssql驱动-->
 		<!--<dependency>-->
-			<!--<groupId>com.microsoft.sqlserver</groupId>-->
-			<!--<artifactId>sqljdbc4</artifactId>-->
-			<!--<version>${mssql.version}</version>-->
+		<!--<groupId>com.microsoft.sqlserver</groupId>-->
+		<!--<artifactId>sqljdbc4</artifactId>-->
+		<!--<version>${mssql.version}</version>-->
 		<!--</dependency>-->
-		 <!--postgresql驱动-->
+		<!--postgresql驱动-->
 		<!--<dependency>-->
-			<!--<groupId>org.postgresql</groupId>-->
-			<!--<artifactId>postgresql</artifactId>-->
+		<!--<groupId>org.postgresql</groupId>-->
+		<!--<artifactId>postgresql</artifactId>-->
 		<!--</dependency>-->
 		<dependency>
 			<groupId>com.alibaba</groupId>
@@ -246,21 +246,21 @@
 			<artifactId>snakeyaml</artifactId>
 			<version>1.23</version>
 		</dependency>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-test</artifactId>
-            <version>5.1.6.RELEASE</version>
-            <scope>compile</scope>
-        </dependency>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test</artifactId>
+			<version>5.1.6.RELEASE</version>
+			<scope>compile</scope>
+		</dependency>
 		<!--<dependency>-->
-			<!--<groupId>org.springframework.kafka</groupId>-->
-			<!--<artifactId>spring-kafka</artifactId>-->
-			<!--<version>2.2.4.RELEASE</version>-->
+		<!--<groupId>org.springframework.kafka</groupId>-->
+		<!--<artifactId>spring-kafka</artifactId>-->
+		<!--<version>2.2.4.RELEASE</version>-->
 		<!--</dependency>-->
 		<!--<dependency>-->
-			<!--<groupId>org.apache.kafka</groupId>-->
-			<!--<artifactId>kafka_2.12</artifactId>-->
-			<!--<version>2.2.0</version>-->
+		<!--<groupId>org.apache.kafka</groupId>-->
+		<!--<artifactId>kafka_2.12</artifactId>-->
+		<!--<version>2.2.0</version>-->
 		<!--</dependency>-->
 		<!-- https://mvnrepository.com/artifact/com.alibaba/easyexcel -->
 		<dependency>
@@ -269,9 +269,9 @@
 			<version>1.1.2-beat1</version>
 		</dependency>
 		<!--<dependency>-->
-			<!--<groupId>org.ansj</groupId>-->
-			<!--<artifactId>ansj_seg</artifactId>-->
-			<!--<version>5.1.1</version>-->
+		<!--<groupId>org.ansj</groupId>-->
+		<!--<artifactId>ansj_seg</artifactId>-->
+		<!--<version>5.1.1</version>-->
 		<!--</dependency>-->
 	</dependencies>
 

@@ -14,6 +14,7 @@ import javax.servlet.Filter;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
+import org.springframework.context.annotation.Lazy;
 
 /**
  * Shiro配置
@@ -23,6 +24,7 @@ import java.util.Map;
 @Configuration
 public class ShiroConfig {
 
+    @Lazy
     @Bean("securityManager")
     public SecurityManager securityManager(OAuth2Realm oAuth2Realm) {
         DefaultWebSecurityManager securityManager = new DefaultWebSecurityManager();
@@ -67,6 +69,7 @@ public class ShiroConfig {
         return new LifecycleBeanPostProcessor();
     }
 
+    @Lazy
     @Bean
     public AuthorizationAttributeSourceAdvisor authorizationAttributeSourceAdvisor(SecurityManager securityManager) {
         AuthorizationAttributeSourceAdvisor advisor = new AuthorizationAttributeSourceAdvisor();
