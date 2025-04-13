@@ -98,3 +98,6 @@ financePub
 ![输入图片说明](https://s1.ax1x.com/2020/05/27/tEHpct.png "在这里输入图片标题")
 
 <br>
+
+初始账号密码
+admin/admin
