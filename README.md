@@ -1,5 +1,6 @@
 **项目说明** 
 - financePub是一个轻量级的，前后端分离的Java快速开发平台,在此平台上开发了收支记账管理软件;
+- Gin-Vue-Admin新推出了基于GVA框架的家庭理财管理系统，前端vue+elementPlus , 后端golang+gorm框架，友情链接：https://plugin.gin-vue-admin.com/details/114
 - 支持MySQL、Oracle、SQL Server、PostgreSQL等主流数据库
 - 前端地址：https://github.com/jsqfengbao/financePub/financePub_vue
 <br> 
